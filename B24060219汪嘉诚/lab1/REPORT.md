@@ -24,7 +24,7 @@
 
 但我使用的是物理机，可以直接打开终端，安装openssh-server结果如下，可见之前就已经安装过了 
 
-![alt text](image-6.png)
+![image](image-6.png)
 
 后续如下： 
 
@@ -89,4 +89,5 @@ mysql> exit
 Bye
 ```
 最后使用dbeaver-ce 连接数据库，效果如图 
+
 ![image](../image/L3.png)
